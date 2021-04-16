@@ -1,1 +1,2 @@
-# 6SEM_project
+# 6SEM_project(HiggsSt. process)
+by pythia8.2
